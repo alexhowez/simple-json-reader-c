@@ -1,0 +1,17 @@
+[
+	{
+		"title": "personal data",
+		"children": {
+			"name": "joe",
+			"lastname": "lastname",
+			"fullname": "joe lastname"
+		}
+	},
+	{ "age": 22 },
+	{
+		"title": "title",
+		"children": {
+			"street": "lcv"
+		}
+	}
+]
