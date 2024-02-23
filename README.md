@@ -1,3 +1,10 @@
+v0.1
+
+Quick project I made for a friend who needed to copy/paste a lot of files.
+
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
